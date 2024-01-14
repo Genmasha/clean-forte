@@ -28,14 +28,14 @@ export default {
     }
   },
   contactOne: {
-    title: 'Pozor! Akcia: Získajte 50% zľavu!',
+    title: '¡Atención! ¡Consigue un 50% de descuento!',
     price: '39 EUR',
     imageAlt: 'Kontakt',
-    labelName: 'Názov',
+    labelName: 'Nombre',
     priceDiscount: '78 EUR',
-    labelPhone: 'Telefón',
-    placeholderName: 'Napíšte svoje meno',
-    placeholderPhone: 'Vyplňte svoje telefónne číslo',
+    labelPhone: 'Telefono',
+    placeholderName: 'Escriba su nombre',
+    placeholderPhone: 'Escriba su número de teléfono',
     btnTitle: 'Objednať teraz'
   },
   modal: {
@@ -45,10 +45,10 @@ export default {
     modalError: 'Chyba pri zadávaní objednávky',
     button: 'V redu'
   },
-  days: 'Dni',
-  hours: 'Hodiny',
-  minutes: 'Minúty',
-  seconds: 'Sekundy',
+  days: 'Días',
+  hours: 'Horas',
+  minutes: 'Minutos',
+  seconds: 'Segundos',
   reviews: {
     p1: 'pidaras',
     author1: 'fsadfasd',
