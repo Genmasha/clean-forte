@@ -99,7 +99,7 @@ export default {
   },
   titleFeatureSeven: 'fsadfasd',
   buttonFeatureSeven: 'fsadfasd',
-  textFooter: '2024 Slim Fortee©',
+  textFooter: '',
   disclaimerFooter:
     '*Tento produkt nie je určený na nahradenie odborného lekárskeho poradenstva, diagnostiky alebo liečby. Všetky otázky týkajúce sa vášho zdravotného stavu vždy konzultujte so svojím lekárom alebo iným kvalifikovaným zdravotníckym pracovníkom.',
   rightsFooter: 'Všetky práva vyhradené',

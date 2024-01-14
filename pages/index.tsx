@@ -103,11 +103,11 @@ const Home: NextPage = () => {
             className="h-12 w-auto lg:mb-0 sm:mb-2"
           />
           <div className="flex flex-row items-center">
-            <Image
+            {/* <Image
               src={leaflogo} 
               alt="leaf logo"
               className="lg:ml-2 mb-2 lg:mb-0 h-12 w-auto"
-            />
+            /> */}
             <span className="ml-3 text-black mb-3 font-medium text-lg">Composición 100% natural</span>
           </div>
         </div>

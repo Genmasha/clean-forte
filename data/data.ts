@@ -146,8 +146,8 @@ export const useData = (locale: string | undefined) => {
 
     titleFeatureSeven: t.titleFeatureSeven,
     buttonFeatureSeven: t.buttonFeatureSeven,
-    textFooter: t.textFooter,
-    disclaimerFooter: t.disclaimerFooter,
+    textFooter: '2024 Clean Forte© Todos los derechos reservados.',
+    disclaimerFooter: '*Este producto no pretende sustituir el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a su médico o a otro profesional sanitario cualificado cualquier duda relacionada con su estado de salud.',
     rightsFooter: t.rightsFooter,
     incentives: [
       {
@@ -209,7 +209,7 @@ export const useData = (locale: string | undefined) => {
       placeholderName: t.contactOne.placeholderName,
       priceDiscount: t.contactOne.priceDiscount,
       placeholderPhone: t.contactOne.placeholderPhone,
-      btnTitle: t.contactOne.btnTitle,
+      btnTitle: 'Ordenar Ahora',
       imageSrc: product
     },
     modal: {
