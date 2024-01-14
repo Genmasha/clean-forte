@@ -1,0 +1,43 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.1",
+    "@headlessui/react": "^1.7.13",
+    "@heroicons/react": "^2.0.16",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.9",
+    "clsx": "^1.2.1",
+    "form-data": "^4.0.0",
+    "framer-motion": "^10.10.0",
+    "gsap": "^3.11.5",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "luxon": "^3.3.0",
+    "next": "latest",
+    "next-translate": "^2.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^12.2.0",
+    "react-intersection-observer": "^9.4.3",
+    "react-typewriter-effect": "^1.1.0",
+    "smartlook-client": "^8.1.0",
+    "typewriter-effect": "^2.19.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@types/luxon": "^3.2.0",
+    "@types/node": "18.11.3",
+    "@types/nodemailer": "^6.4.7",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "autoprefixer": "^10.4.12",
+    "next-translate-plugin": "^2.0.4",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.4",
+    "typescript": "4.9.4"
+  }
+}
