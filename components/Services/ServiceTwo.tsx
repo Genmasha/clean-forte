@@ -23,7 +23,7 @@ const incentives = [
     img: num
   },
   {
-    name: 'un operador se pondrá en contacto con usted para confirmar su pedido',
+    name: '¡Consume durante las comidas!',
     description: '',
     img: num
   }

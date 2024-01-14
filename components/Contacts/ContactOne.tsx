@@ -79,7 +79,7 @@ export default function ContactOne(props: Props) {
         &#8203;
       </span>
       <div className="flex w-full transform text-left text-base transition  md:max-w-2xl md:px-4 lg:max-w-4xl">
-        <div className="relative flex w-full items-center overflow-hidden bg-white px-4  pb-8 shadow-2xl sm:px-6 sm:pt-8 md:p-6 lg:p-8">
+        <div className="relative flex w-full items-center overflow-hidden bg-white px-4  pb-8 shadow-2xl pl-20 sm:pt-8 md:p-6 lg:p-8">
           <div className="grid w-full grid-cols-1 items-start gap-y-8 gap-x-6 sm:grid-cols-12 lg:items-center lg:gap-x-8">
             <div className="aspect-w-2 aspect-h-2 lg:aspect-h-3 overflow-hidden rounded-lg bg-gray-100 col-span-4 lg:col-span-5">
               <Image src={imageSrc} alt={imageAlt} className="object-cover object-center" />
